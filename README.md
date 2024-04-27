@@ -11,7 +11,7 @@ Features
 Usage
 To use or modify this website:
 
-1. Clone the repository: git clone https://github.com/yourusername/simple-portfolio-website.git
+1. Clone the repository: git clone https://karthigafed.github.io/simple-portfolio-website/
 2. Open the index.html file in your web browser or code editor to view the home page.
 3. Navigate to the contact.html file to view the contact page.
 4. Modify the HTML and CSS files to customize the content and styling.
